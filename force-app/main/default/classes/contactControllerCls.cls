@@ -7,4 +7,8 @@ public class contactControllerCls {
                                  ];
         return contacts;
     }
+	
+	public static String sayHello(){
+		return 'Hello';
+	}
 }
