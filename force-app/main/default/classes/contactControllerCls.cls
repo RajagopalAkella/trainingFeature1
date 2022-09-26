@@ -24,4 +24,8 @@ public class contactControllerCls {
 		return 'Hi from VSC';
 	}
 	
+	public static String sayHi2(){
+		return 'Hi2';
+	}
+	
 }
