@@ -11,4 +11,8 @@ public class contactControllerCls {
 	public static String sayHello(){
 		return 'Hello';
 	}
+	
+	public static String sayHi(){
+		return 'Hi';
+	}
 }
