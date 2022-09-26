@@ -19,5 +19,9 @@ public class contactControllerCls {
 	public static String sayWorld(){
 		return 'World';
 	}
+
+	public static String sayHelloFromVsc1(){
+		return 'Hi from VSC';
+	}
 	
 }
