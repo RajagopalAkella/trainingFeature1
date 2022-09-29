@@ -32,4 +32,8 @@ public class contactControllerCls {
 		return 'Hi2';
 	}
 	
+    public static String sayRam(){
+        return 'Hello Ram';
+    }	
+	
 }
